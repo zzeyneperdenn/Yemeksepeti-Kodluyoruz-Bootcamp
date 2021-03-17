@@ -1,1 +1,1 @@
-# Kodluyoruz Yemeksepeti Full Stack (.NET, JavaScript&React) Bootcamp Homeworks
+# Kodluyoruz Academy Yemeksepeti Full Stack (.NET, JavaScript&React) Bootcamp Homeworks
