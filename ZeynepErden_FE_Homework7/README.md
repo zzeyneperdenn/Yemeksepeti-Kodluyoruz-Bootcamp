@@ -7,3 +7,5 @@ Component'in export edilmesi
 İmport edilerek kullanılması
 State ve/veya useState kullanılması
 Bootstrap gibi css kütüphaneleri isteğe bağlı kullanılabilir
+
+Canlıya alınmış haline bu linkten erişebilirsiniz: https://github.com/zzeyneperdenn/Yemeksepeti-Kodluyoruz-Bootcamp.git
