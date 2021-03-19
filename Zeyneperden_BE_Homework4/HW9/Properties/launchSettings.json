@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "HW9": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
